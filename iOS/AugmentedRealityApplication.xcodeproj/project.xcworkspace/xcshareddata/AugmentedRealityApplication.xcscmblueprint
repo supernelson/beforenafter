@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6E7656266567D5831A872BE994A9FA07FDC1D51B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6E7656266567D5831A872BE994A9FA07FDC1D51B" : 0,
+    "7C6651249213D825CB3227D555E1188AA760725C" : 0,
+    "496464169E3FF837CEEBA3522526BDF3CFE3565A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3CA3218F-C508-44FE-89BC-5DEE99C27249",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6E7656266567D5831A872BE994A9FA07FDC1D51B" : "wikitude-sdk-basic-projects\/",
+    "7C6651249213D825CB3227D555E1188AA760725C" : "",
+    "496464169E3FF837CEEBA3522526BDF3CFE3565A" : "wikitude-sdk-samples\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AugmentedRealityApplication",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOS\/AugmentedRealityApplication.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Wikitude\/wikitude-sdk-samples.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "496464169E3FF837CEEBA3522526BDF3CFE3565A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Wikitude\/wikitude-sdk-basic-projects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6E7656266567D5831A872BE994A9FA07FDC1D51B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/supernelson\/beforenafter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7C6651249213D825CB3227D555E1188AA760725C"
+    }
+  ]
+}
